@@ -1,0 +1,16 @@
+.crypto-card-container{
+    width: 80%;
+    position: absolute;
+    right: 10px;
+}
+.search-crypto
+{
+    left:1%;
+    position: relative;
+}
+.footer
+{
+    /* bottom:0px; */
+    position: relative;
+    top:0px;
+}
